@@ -35,7 +35,6 @@ I enjoy collaborating with like-minded people, exploring new technologies, and t
 ### Computer Science Fundamentals
 - Data Structures
 - Operating Systems
-- 
 ---
 
 ## Certifications
@@ -88,10 +87,11 @@ I enjoy collaborating with like-minded people, exploring new technologies, and t
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranithaapradeep&show_icons=true&theme=tokyonight)
+## GitHub Activity
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranithaapradeep&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=pranithaapradeep&theme=tokyonight)
 
+![Profile Views](https://komarev.com/ghpvc/?username=pranithaapradeep&color=blue)
 ---
 
 ## Connect With Me
