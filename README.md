@@ -1,20 +1,111 @@
-<h1>Hi, I'm Pranithaa ! Computer Science and Business Systems Student | Aspiring Software Engineer</h1>
-<p>Aspiring Software Engineer with a strong foundation in Java, SQL, DSA, Operating Systems, and Web Technologies. Passionate about building scalable solutions and contributing to innovative teams.</p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="42" height="42" /></a>
-<a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
-<a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/www.linkedin.com/in/pranithaa-pradeep-38ba2b25a" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Pranithaa Pradeep&show_icons=true&locale=en" alt="Pranithaa Pradeep" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pranithaa Pradeep&show_icons=true&locale=en&layout=compact" alt="Pranithaa Pradeep" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Pranithaa Pradeep" alt="Pranithaa Pradeep" /></a></p>
+# Hi there, I'm Pranithaa 👋
+
+### Computer Science and Business Systems Student | Aspiring Software Engineer
+
+Passionate about problem-solving, continuous learning, and building impactful technology solutions.
+
+I enjoy collaborating with like-minded people, exploring new technologies, and transforming ideas into practical applications.
+
+---
+
+## About Me
+
+- Computer Science and Business Systems Student
+- Fast learner with a strong passion for technology and innovation
+- Interested in Software Development, Cloud Computing, Data Analytics, Artificial Intelligence, and Web Technologies
+- Enjoy collaborating with teams and contributing to meaningful projects
+- Continuously improving my skills in Data Structures & Algorithms and Software Development
+- Aspiring to build scalable software solutions and grow as a Software Engineer
+
+---
+
+## Technical Skills
+
+### Programming & Database
+- Java
+- SQL
+
+### Web Development
+- HTML
+- CSS
+
+### Analytics & Visualization
+- Power BI
+
+### Artificial Intelligence & Productivity
+- AI Tools
+- Claude AI
+
+### Computer Science Fundamentals
+- Data Structures
+- Operating Systems
+
+---
+
+## Certifications
+
+- AWS Certified Developer – Associate
+- Microsoft Certified: Azure Fundamentals
+- Data Analysis Certification – GUVI
+- Cisco Certifications
+- NPTEL Certifications
+
+---
+
+## Languages Known
+
+- English
+- Tamil
+- Malayalam
+- Hindi
+- Telugu
+
+---
+
+## Hobbies & Interests
+
+- Walking
+- Running
+- Reading Books
+- Swimming
+- Editing
+
+---
+
+## Featured Projects
+
+| **Debt Repayment Planner** | **Focus Loop** | **AI-Based Smart Interview Analyzer** | **Image Steganography** | **NLP-Based Message Classifier** |
+|----------------------------|----------------|----------------------------------------|-------------------------|----------------------------------|
+| Financial planning tool to optimize debt payoff strategies and improve budgeting decisions. | Productivity and focus management application designed to improve concentration and task completion. | AI-powered system that analyzes interview performance and provides actionable feedback. | Secure application for hiding and retrieving confidential messages within images. | Natural Language Processing model for intelligent message and text classification. |
+
+---
+
+## Current Focus
+
+- Strengthening Data Structures & Algorithms
+- Enhancing Java Development Skills
+- Building Real-World Projects
+- Exploring AWS & Azure Cloud Technologies
+- Expanding knowledge in Artificial Intelligence
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## Connect With Me
+
+💼 LinkedIn: https://www.linkedin.com/in/pranithaa-pradeep-38ba2b25a
+
+---
+
+### Motto
+
+> Learning, building, and growing one project at a time.
+
+Feel free to explore my repositories and connect with me.
