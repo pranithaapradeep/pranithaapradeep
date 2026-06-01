@@ -3,7 +3,6 @@
 ### Computer Science and Business Systems Student | Aspiring Software Engineer
 
 Passionate about problem-solving, continuous learning, and building impactful technology solutions.
-
 I enjoy collaborating with like-minded people, exploring new technologies, and transforming ideas into practical applications.
 
 ---
@@ -24,22 +23,19 @@ I enjoy collaborating with like-minded people, exploring new technologies, and t
 ### Programming & Database
 - Java
 - SQL
-
 ### Web Development
 - HTML
 - CSS
-
+- JAVA SCRIPT
 ### Analytics & Visualization
 - Power BI
-
 ### Artificial Intelligence & Productivity
 - AI Tools
-- Claude AI
-
+- Claude (Anthropic) and GPT (OpenAI) 
 ### Computer Science Fundamentals
 - Data Structures
 - Operating Systems
-
+- 
 ---
 
 ## Certifications
@@ -92,9 +88,9 @@ I enjoy collaborating with like-minded people, exploring new technologies, and t
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranithaapradeep&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranithaapradeep&layout=compact&theme=tokyonight)
 
 ---
 
